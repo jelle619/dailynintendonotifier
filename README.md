@@ -1,2 +1,2 @@
 # dailynintendonotifier
-Get notified about a new article form Daily Nintendo, no third-party apps needed.
+Get notified when something happens on Daily Nintendo, no third-party apps needed.
