@@ -1,6 +1,8 @@
 # Daily Nintendo Notifier
 Get notified when something happens on Daily Nintendo, no third-party apps needed
 
+![Preview](https://raw.githubusercontent.com/jelle619/dailynintendonotifier/master/images/preview.png)
+
 ## Help us!
 You can help us by forking the project and improving the code.
 
