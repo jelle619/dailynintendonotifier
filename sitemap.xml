@@ -11,8 +11,11 @@
   </url>
   <url>
     <loc>http://dailynintendonotifier.com/aanmelding.html</loc>
-    <lastmod>2018-01-28</lastmod>
+    <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://dailynintendonotifier.com/images/intro.png</image:loc>
+    </image:image>
   </url>
 </urlset>
