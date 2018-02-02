@@ -3,7 +3,7 @@ Get notified about a new article form Daily Nintendo. No third-party apps or ext
 
 ![Preview](https://raw.githubusercontent.com/jelle619/dailynintendonotifier/master/images/preview.png)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/jelle619/dailynintendonotifier)
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/jelle619/dailynintendonotifier)[![Github commits (since latest release)](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/latest.svg)](https://github.com/jelle619/dailynintendonotifier)
 ## Help us!
 You can help us by forking the project and improving the code.
 
