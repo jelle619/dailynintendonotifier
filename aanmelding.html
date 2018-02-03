@@ -17,13 +17,17 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Aanmelding</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/aanmelding.css?crc=475929111" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/aanmelding.css?crc=4084752825" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_aanmelding.css?crc=188380436" id="nomq_pagesheet"/>
   <![endif]-->
     <!--custom head HTML-->
-  <link rel="manifest" href="/manifest.json" /><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script><script>  var OneSignal = window.OneSignal || [];  OneSignal.push(function() {    OneSignal.init({      appId: "85c69213-dd20-4297-94d5-2e8ff1c09bf4",    });  });window.alert("Wanneer de notificatie verschijnt heeft u de kans om Daily Nintendo Notifier te activeren.");</script>
+  <link rel="manifest" href="/manifest.json" /><script>if( document.cookie.indexOf("cookieusage=") < 0) {
+    alert("U bent niet akkoord gegaan met het gebruik van cookies. U wordt nu omgeleid.");
+    location.href = "index.html";
+}
+</script><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script><script>  var OneSignal = window.OneSignal || [];  OneSignal.push(function() {    OneSignal.init({      appId: "85c69213-dd20-4297-94d5-2e8ff1c09bf4",    });  });window.alert("Uw aanmelding bij Daily Nintendo Notifier zal nu van start gaan.");</script>
  </head>
  <body>
 
@@ -38,7 +42,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <div class="clearfix colelem shared_content" id="u163-8" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-content-guid="u163-8_content"><!-- content -->
       <p>Accepteer het verzoek op notificaties te ontvangen om uw aanmelding te voltooien.</p>
-      <p>Er zal geen notificatie verschijnen als u een browser gebruikt die niet ondersteund wordt of als u een eerder verzoek heeft geacepteerd/afgewezen.</p>
+      <p>Er zal geen notificatie verschijnen als u een browser gebruikt die niet ondersteund wordt of als u een eerder verzoek heeft geaccepteerd/afgewezen.</p>
       <p>Je kunt deze pagina sluiten nadat dit voltooid is.</p>
      </div>
      <div class="clearfix colelem" id="pbuttonu181"><!-- group -->
