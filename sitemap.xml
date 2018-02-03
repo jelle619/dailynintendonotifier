@@ -18,4 +18,10 @@
       <image:loc>http://dailynintendonotifier.com/images/intro.png</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>http://dailynintendonotifier.com/privacybeleid.html</loc>
+    <lastmod>2018-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
