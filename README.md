@@ -5,6 +5,9 @@ Get notified about a new article form Daily Nintendo. No third-party apps or ext
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/jelle619/dailynintendonotifier)
 
+## Set-up
+[Visit the set-up page](https://jelle619.github.io/dailynintendonotifier) and follow the steps.
+
 ## Help us!
 You can help us by forking the project and improving the code.
 
